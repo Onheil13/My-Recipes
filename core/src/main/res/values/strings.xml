@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="no_connection_body">Please check your internet connection and try again.</string>
+    <string name="network_error">Network Error</string>
+    <string name="information">Information</string>
+    <string name="retry">Retry</string>
+</resources>
